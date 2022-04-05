@@ -13,3 +13,4 @@ abcd
 abcd
 abcd
 abcd000aaa
+这是金子孝提供的代码
