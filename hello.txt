@@ -12,6 +12,7 @@ abcd
 abcd
 abcd
 abcd
-abcd000aaa
+abcd000aa
 这是金子孝提供的代码
 使用ssh来拉取代码
+这是新的功法
